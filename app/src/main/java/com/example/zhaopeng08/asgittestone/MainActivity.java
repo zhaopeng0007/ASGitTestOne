@@ -12,7 +12,14 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
+
+
         System.out.println("dsfasdfsdfsafa");
+
+        System.out.println("sdafjask;djflasdf;as");
+
+
+        setContentView(R.layout.activity_main);
 
     }
 }
